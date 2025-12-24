@@ -1,7 +1,7 @@
 # 📇 Contact Book Application
 
 <p align="center">
-  <img src="CONTACTSS.png" alt="Contact Book App Screenshot" width="700"/>
+  <img src="./CONTACTSS.png" alt="Contact Book App Screenshot" width="700"/>
 </p>
 
 <p align="center">
