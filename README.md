@@ -49,12 +49,6 @@ This project focuses on:
 ---
 
 ## 🖼️ Application Screenshots
-
-### 📌 Main Contact Book Window
-<p align="center">
-  <img src="CONTACTSS.png" alt="Main Contact Book Window" width="600"/>
-</p>
-
 ---
 
 ### ➕ Add New Contact Window
